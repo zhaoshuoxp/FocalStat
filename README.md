@@ -27,7 +27,7 @@ Python:
 ![python](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/Python.png)
 
 R:
-![python](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/R.png?token=GHSAT0AAAAAACLAHG3EDL2223OLGZTWWRDUZ3EOSKA)
+![python](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/R.png)
 
 
 ------
