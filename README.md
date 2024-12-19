@@ -22,15 +22,15 @@ This repository contains three scripts for calculating the focal length of .jpg 
 
 GNUplot:
 
-![GNUplot](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/Python.png)
+![GNUplot](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/gnuplot.png?token=GHSAT0AAAAAACLAHG3EKNXP2MQ32MJPF3C4Z3EORWQ)
 
 Python:
 
-![python](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/master/python.png)
+![python](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/Python.png?token=GHSAT0AAAAAACLAHG3FK22UBDWTSQ7SYF56Z3EOQEA)
 
 R:
 
-![python](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/master/r.png)
+![python](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/R.png?token=GHSAT0AAAAAACLAHG3EDL2223OLGZTWWRDUZ3EOSKA)
 
 
 
