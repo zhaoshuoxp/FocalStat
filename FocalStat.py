@@ -48,9 +48,6 @@ def traverse_directory(directory):
                     
     return focal_lengths
 
-import numpy as np
-import matplotlib.pyplot as plt
-
 def plot_histogram(focal_lengths):
     min_val = min(focal_lengths)
     max_val = max(focal_lengths)
