@@ -21,7 +21,7 @@ def get_focal_length_and_pixels(image_path):
         total_pixels = width * height
         
         if focal_length:
-            focal_length = float(focal_length.values[0])  # EXIF返回的是一个比例
+            focal_length = float(focal_length.values[0]) 
             coefficient = total_pixels / 45441024
             result = int( focal_length/coefficient)
             return result
@@ -39,7 +39,6 @@ def traverse_directory(directory):
         print(f"file: {files}")
         
         for file in files:
-            # 检查是否是 .jpg 或 .jpeg 文件
             if file.lower().endswith(('.jpg', '.jpeg')):
                 image_path = os.path.join(root, file)
                 print(f"processing: {image_path}")
@@ -63,7 +62,7 @@ def plot_histogram(focal_lengths):
     plt.ylabel('Frequency')
     
     custom_ticks = [10, 16, 24, 35, 50, 85, 105, 120, 200]
-    plt.xticks(custom_ticks)  # 设置刻度为自定义的值
+    plt.xticks(custom_ticks)  
     plt.show()
     
     
