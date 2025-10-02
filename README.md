@@ -21,16 +21,8 @@ This repository contains three scripts for calculating the focal length of .jpg 
 - histogram.png
 
 GNUplot:
-<<<<<<< Updated upstream
 ![GNUplot](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/gnuplot.png)
 
-=======
-
-<<<<<<< HEAD
-![GNUplot](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/gnuplot.png?token=GHSAT0AAAAAACLAHG3EKNXP2MQ32MJPF3C4Z3EORWQ)
-=======
-![GNUplot](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/Python.png?token=GHSAT0AAAAAACLAHG3FK22UBDWTSQ7SYF56Z3EOQEA)
->>>>>>> Stashed changes
 Python:
 ![python](https://raw.githubusercontent.com/zhaoshuoxp/FocalStat/refs/heads/main/Python.png)
 
